@@ -5,4 +5,5 @@ public class GitTest {
     // v2
     // v3
     // branch new
+    // new commit
 }
