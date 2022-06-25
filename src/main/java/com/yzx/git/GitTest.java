@@ -7,4 +7,5 @@ public class GitTest {
     // branch new
     // b master
     // new commit
+    // pull test
 }
