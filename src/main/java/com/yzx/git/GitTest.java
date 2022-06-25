@@ -6,4 +6,5 @@ public class GitTest {
     // v3
     // branch new
     // b master
+    // new commit
 }
